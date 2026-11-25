@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhkkx\\Desktop\\HW5\\hw6.37\\hw6.37\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40780D5-E733-4D10-80D6-2DA6B4CE0515}|hw6.37\\hw6.37.vcxproj|C:\\Users\\mhkkx\\Desktop\\HW5\\hw6.37\\hw6.37\\hw6.37\\hw6.37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C40780D5-E733-4D10-80D6-2DA6B4CE0515}|hw6.37\\hw6.37.vcxproj|solutionrelative:hw6.37\\hw6.37.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw6.37.cpp",
+              "DocumentMoniker": "C:\\Users\\mhkkx\\Desktop\\HW5\\hw6.37\\hw6.37\\hw6.37\\hw6.37.cpp",
+              "RelativeDocumentMoniker": "hw6.37\\hw6.37.cpp",
+              "ToolTip": "C:\\Users\\mhkkx\\Desktop\\HW5\\hw6.37\\hw6.37\\hw6.37\\hw6.37.cpp*",
+              "RelativeToolTip": "hw6.37\\hw6.37.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-23T09:16:06.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
